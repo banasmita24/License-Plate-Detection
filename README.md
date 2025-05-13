@@ -36,3 +36,8 @@ The system is divided into two main components:
 # Clone the repository
 git clone https://github.com/your-username/license-plate-detection.git
 cd license-plate-detection
+```
+
+## 🖼️ Output Preview
+
+https://github.com/user-attachments/assets/1103d688-15aa-4b54-93a0-8d62857f3329
